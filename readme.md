@@ -25,3 +25,10 @@ The Fake Indian Currency Detection project is a web application that helps users
 - Python 3.11
 - pip (Python package installer)
 - Virtual environment (optional but recommended)"# Fake-Currency-Detection-using-CNN" 
+
+
+## Steps to Run :
+
+1. Install all the requirements.
+2. Run all the training files and after that models will be saved in workspace(eg. model_100.h5, model_200.h5 , model_500.h5),Save all that .h5 files in Models folder.
+3. then run the command in terminal python app.py
